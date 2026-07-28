@@ -1,1 +1,3 @@
-# hello-world
+# Git tutorial
+
+Hello World example using git
